@@ -1,0 +1,48 @@
+var can be accessed outside the block in which it was declared.
+let can only be accessed in the block.
+
+while condition only
+
+anonymous fuctions can be created by saving the function def to a var
+    var add = function(x,y){
+        return x+y;
+    }
+
+    or 
+
+    var add = (x+y)=>{
+        return x+y;
+    }
+
+
+    function add(x,y)=>{x+y};
+
+    type is fuction
+    
+    
+    dictionary
+        var person={
+            fullName: "aadi",
+            age: 22,
+            email: "aadi@mail"
+        }
+         
+         person.age = 23
+         person.planet = "earth"
+
+    array 
+        var data = ["my name",25]
+
+        array is a fixed size collection
+
+        var is stored on either depending on type
+        heap memory - 
+        stack memory -
+
+        static languages rewrite the value at memory
+        dynamic assigns new memory for each
+
+
+        what is constant
+        string fuctions
+        slicing an array

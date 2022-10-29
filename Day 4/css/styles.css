@@ -1,0 +1,10 @@
+.link-li{
+    list-style: none;
+}
+.link-li a{
+    text-decoration: none;
+    color: white;
+}
+.link-li a:hover{
+    color: grey;
+}

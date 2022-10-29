@@ -1,0 +1,36 @@
+lang :
+	en-US
+	en-GB
+	en-IN
+b: bring attention to element
+i: idiomatic text element
+u: unarticulated annotation
+
+automatic closing if a block elements comes after open block element
+
+list : start and type	
+	if type is a chara and start goes beyond 26...it expands AA etc..
+
+margin : margin between two elements is the greatest and not the combination
+	i.e 20 bottom b1 + 20 top b2 = 20 btw b1 and b2
+
+site must only have one h1	donn't skip header, h2 after h1
+
+
+programming language are instructions to computer to do some task, which is converted to machine language
+
+ 
+JAVASCRIPT
+
+	var a = 1;
+	alert()
+	document.write(i)
+	can change data types anytime
+	types : number,string,object (no charcter types)
+	vscode is ade with javascript, elctron api
+	confirm(): (ok,cancel)
+
+	div>table.classname   shortcut
+	h1*10 		shortcut
+	shift+alt+mouse-down	shortcut
+	
